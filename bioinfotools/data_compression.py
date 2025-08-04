@@ -1,4 +1,5 @@
 from bioinfotools.suffix_tree import SuffixTree
+
 #@sartor-bot
 def compute_z(text):
     """
